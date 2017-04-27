@@ -46,7 +46,8 @@ header#header
       .collapse.navbar-collapse.navbar-right
         ul.nav.navbar-nav
           li.active
-            a href="index.html"  Home
+            = link_to home_index_path
+              |Home
           li
             = link_to about_us_path
               |About Us
