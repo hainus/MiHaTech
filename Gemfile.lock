@@ -216,7 +216,6 @@ DEPENDENCIES
   slim-rails (= 3.1.0)
   spring
   spring-watcher-listen (~> 2.0.0)
-  sprockets-rails (~> 3.2)
   turbolinks (~> 5)
   twitter-bootstrap-rails (~> 3.2.0)
   tzinfo-data

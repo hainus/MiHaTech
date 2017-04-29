@@ -53,7 +53,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #ADDED GEMS
 gem 'slim-rails', '3.1.0'
-gem 'sprockets-rails', '~> 3.2'
+# gem 'sprockets-rails', '~> 3.2'
+# gem 'sprockets'
 gem 'pg', '~> 0.18.2'
 gem "paperclip", "~> 5.0.0"
 gem 'devise', '~> 4.2'
