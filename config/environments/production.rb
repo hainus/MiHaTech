@@ -86,6 +86,6 @@ Rails.application.configure do
   config.serve_static_assets = true
   config.assets.compile = false
   config.assets.digest = true
-  config.assets.initialize_on_precompile = true
+  config.assets.initialize_on_precompile = false
   # config.assets.precompile += %w( *.css *.js )
 end
